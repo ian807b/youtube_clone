@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "n0XkxJM3_61z96EcDeGEUggynhA",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "CA",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ly3qptfO9CL0Ur30OXF_4yCbYv4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ILR6sXse3dw"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-20T19:00:18Z",
+        "channelId": "UCCxF55adGXOscJ3L8qdKnrQ",
+        "title": "Can I Break Par With The Cheapest Golf Clubs On Temu?",
+        "description": "In this video I will be attempting to break par with some of the cheapest golf clubs on Temu... Shoutout to PGA Frisco for allowing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ILR6sXse3dw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ILR6sXse3dw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ILR6sXse3dw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bryson DeChambeau",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-20T19:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8xd7R4VOzb12czNmnEt_SRLh9GM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R-rcqPVgJqg"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-20T23:15:56Z",
+        "channelId": "UCKwGZZMrhNYKzucCtTPY2Nw",
+        "title": "Highlights | Round 1 | Valspar",
+        "description": "Check out the best shots of the day from Round 1 of the 2025 Valspar Championship, featuring Keith Mitchell, Sami Valimaki and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R-rcqPVgJqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R-rcqPVgJqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R-rcqPVgJqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PGA TOUR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-20T23:15:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yhar1Fjy2Lfsk6pqY_eelR7tlPw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bSw7GB1duyE"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-18T21:08:00Z",
+        "channelId": "UCfi-mPMOmche6WI-jkvnGXw",
+        "title": "THE MATCH | Good Good vs Golf Girl Games",
+        "description": "The SoFi Green In Two Bonus is live now! Double the stock you can score from SoFi Invest at http://Sofi.com/GoodGood and tune ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bSw7GB1duyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bSw7GB1duyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bSw7GB1duyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Good Good",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-18T21:08:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2IuGN4aO9tyHYLfHAUIzKeSJD_0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "75qGla8fZNw"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-20T13:00:11Z",
+        "channelId": "UCi7GJNg51C3jgmYTUwqoUXA",
+        "title": "Bill Burr Doesn’t Get Why People Like Golf | Conan O&#39;Brien Needs A Friend",
+        "description": "Bill Burr explains why golf “rewards dishonest people” and his problem with Pearl Jam. SPONSOR Go to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/75qGla8fZNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/75qGla8fZNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/75qGla8fZNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Team Coco",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-20T13:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zo0l08sWbsXdBjsOQ9MaD7S9998",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T_i1aUYxaKw"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-17T14:56:10Z",
+        "channelId": "UCKwGZZMrhNYKzucCtTPY2Nw",
+        "title": "Every shot from THREE-HOLE PLAYOFF | THE PLAYERS | 2025",
+        "description": "Check out every shot from the three-hole playoff at THE PLAYERS Championship 2025, where Rory McIlroy outlasted J.J. Spaun ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T_i1aUYxaKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T_i1aUYxaKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T_i1aUYxaKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PGA TOUR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-17T14:56:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7tRE7zr_0kINS9LIbbkOwmoeAsE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dtCZpAHl6QQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-20T19:45:24Z",
+        "channelId": "UCpMl4nfWUiYKdq8Il8ZICPQ",
+        "title": "I Played Golf In Front of 3000 Fans...",
+        "description": "Thank you to https://chasingthefox.co.nz/ for inviting me https://wehitfairways.com/ https://takomogolf.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dtCZpAHl6QQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dtCZpAHl6QQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dtCZpAHl6QQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taco Golf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-20T19:45:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tAXk93XlRRygaBYcn1LuHubgXvY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yES1xvbn13M"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-20T17:41:04Z",
+        "channelId": "UCqr4sONkmFEOPc3rfoVLEvg",
+        "title": "New York Yankees Challenged Us To A Match! (Anthony Rizzo, Anthony Volpe, Clarke Schmidt)",
+        "description": "Don't miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yES1xvbn13M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yES1xvbn13M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yES1xvbn13M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bob Does Sports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-20T17:41:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jwczAIO5cLJmrjZP_frhK-cBrGo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HDtWo3RgYsg"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-17T17:00:01Z",
+        "channelId": "UCgUueMmSpcl-aCTt5CuCKQw",
+        "title": "Justin Thomas Vs Grant Horvat (Stroke Play)",
+        "description": "In today's video Justin Thomas & Grant Horvat go head to head in a 18 hole stroke play golf match. Can Grant Horvat beat JT if he ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HDtWo3RgYsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HDtWo3RgYsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HDtWo3RgYsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grant Horvat Golf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-17T17:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wnyM0Wq9E9_sylPWXYuc52Tql4M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w1BSH2BLOMY"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-18T18:00:51Z",
+        "channelId": "UCvird_mVsn1SSPDTLvwrU5w",
+        "title": "EPIC 4v4 Best Ball Scramble... HangBoyz Golf Vs. Stix and Halos Golf",
+        "description": "Part 2 of our 4v4 Best Ball Scramble showdown is here! Two teams go head-to-head in a high-energy battle filled with insane ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w1BSH2BLOMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w1BSH2BLOMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w1BSH2BLOMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HangBoyzGolf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-18T18:00:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7vC7HLbEBKHdv13s7NbF5V2v9Xs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8yJz468U3LQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-20T22:35:53Z",
+        "channelId": "UCbY_v56iMzSGvXK79X6f4dw",
+        "title": "The Coolest thing we&#39;ve ever done..",
+        "description": "Sign up and deposit for Underdog HERE with promo code GOOD to get up to $1000 in bonus cash and a free pick ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8yJz468U3LQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8yJz468U3LQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8yJz468U3LQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Good Good Extra",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-20T22:35:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eGpDbnywfdVnlWgiMmMfLhlrQjw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IWHtn2UIKgc"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-17T00:20:52Z",
+        "channelId": "UCKwGZZMrhNYKzucCtTPY2Nw",
+        "title": "Golf can be cruel 😔",
+        "description": "Alex Smalley's ball rolled in the water on the 17th hole at THE PLAYERS Championship. Welcome to the official YouTube channel ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IWHtn2UIKgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IWHtn2UIKgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IWHtn2UIKgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PGA TOUR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-17T00:20:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1HZwgpCBv7hw8J7pKF53esi1JZQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "orxKBz_JFe8"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-05T16:30:48Z",
+        "channelId": "UCH7xUUf0UtQ6FO7xI-J616g",
+        "title": "The 20 BIGGEST Cheating Scandals in Golf History",
+        "description": "Please Subscribe To The Channel and Join Us In Our Journey To 20k subs ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/orxKBz_JFe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/orxKBz_JFe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/orxKBz_JFe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ESN Golf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-05T16:30:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TmhpYQUsj1WEwITVNCUK-wrejlI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xZMDST5eQfs"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-16T22:00:42Z",
+        "channelId": "UCmzGkClf9CTw0Dq1JGTpAaA",
+        "title": "Change Your Set Up NOT Your Stroke (Brooks Koepka Tip) #golf #golfputt #golftips",
+        "description": "This might look a bit confusing but this is the easiest way to solve any consistent miss strikes with a putter . And before you tell ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xZMDST5eQfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xZMDST5eQfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xZMDST5eQfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Luke Hanlon Golf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-16T22:00:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lurcUdcGZNpG2fuaa59gh-9k2V0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "28T3J0FthOw"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-10T22:00:03Z",
+        "channelId": "UCKwGZZMrhNYKzucCtTPY2Nw",
+        "title": "Celebrity swings at the WM Phoenix Open 🏌️\u200d♂️",
+        "description": "Celebrities taking a shot on the famous 16th hole at TPC Scottsdale during the 2025 WM Phoenix Open pro-am. SUBSCRIBE to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/28T3J0FthOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/28T3J0FthOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/28T3J0FthOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PGA TOUR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-10T22:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tLO9ZF_5VvGYQlwr6xBMrM9STnA",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCFHZHhZaH7Rc_FOMIzUziJA"
+      },
+      "snippet": {
+        "publishedAt": "2011-10-13T15:36:53Z",
+        "channelId": "UCFHZHhZaH7Rc_FOMIzUziJA",
+        "title": "Rick Shiels Golf",
+        "description": "Golf videos to entertain & educate golfers around the world.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/SEeFGb423boD4UsvJVi7mkItMDnq4XQ-HaoIEcl2oICVKhwUy3bYSTgxjaftemU136BP7QgsATQ=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/SEeFGb423boD4UsvJVi7mkItMDnq4XQ-HaoIEcl2oICVKhwUy3bYSTgxjaftemU136BP7QgsATQ=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/SEeFGb423boD4UsvJVi7mkItMDnq4XQ-HaoIEcl2oICVKhwUy3bYSTgxjaftemU136BP7QgsATQ=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Rick Shiels Golf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-10-13T15:36:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bB1iaEmmS1wJMnk-YyvI4neUIo4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wnf65DgOQvc"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-28T21:00:34Z",
+        "channelId": "UCkkV4PdfZ9L6xHS0-FE_hSA",
+        "title": "I changed my driver tee height &amp; can’t stop hitting fairways #golf #golftips #golflife #golftip",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wnf65DgOQvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wnf65DgOQvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wnf65DgOQvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AlexElliottGolf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-28T21:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g-IiiDuMttshTpjxkL_9WQ1TeoA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u7aZoGCAFPE"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-17T17:13:50Z",
+        "channelId": "UCMCzQGnRBx29bemSKM4nA4w",
+        "title": "Par every hole",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u7aZoGCAFPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u7aZoGCAFPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u7aZoGCAFPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Colin Amazing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-17T17:13:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c4MUpC9Odh62Qh5n86vZYKt4PrU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ikw99lkBnpA"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-14T01:30:43Z",
+        "channelId": "UCKwGZZMrhNYKzucCtTPY2Nw",
+        "title": "Highlights | Round 1 | THE PLAYERS Championship | 2025",
+        "description": "Check out the best shots of the day from Round 1 of THE PLAYERS Championship 2025, featuring Lucas Glover, J.J. Spaun, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ikw99lkBnpA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ikw99lkBnpA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ikw99lkBnpA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PGA TOUR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-14T01:30:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bt_AeB9x-aZM1EpDHHh2GaLDG5Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e1Fa2XjSoDw"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-21T01:20:28Z",
+        "channelId": "UC12XQWcIlaavjjbhh6EeMJw",
+        "title": "[2025 KLPGA] 구단의 힘을 보여다오!! 신비동물원•디오션컵 골프구단 대항전 / 첫째날 (한국어 방송)",
+        "description": "신비동물원_디오션컵_골프구단_대항전 #klpga #골프 #SBS골프 #골프중계 #골프라이브 #KLPGA실시간중계.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e1Fa2XjSoDw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e1Fa2XjSoDw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e1Fa2XjSoDw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS Golf",
+        "liveBroadcastContent": "live",
+        "publishTime": "2025-03-21T01:20:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "13fK9WefLv82Rt-6wPWEKIUUGv0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mmDS1TegHGs"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-31T15:26:17Z",
+        "channelId": "UCwlBZF9q_d9B17FcaJeN7Mg",
+        "title": "Junior golfer makes his first ever hole-in-one!",
+        "description": "Does it get any better than making your first ace on national television? We don't think so. Our favorite shot of 2024 is Emery ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mmDS1TegHGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mmDS1TegHGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mmDS1TegHGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PGA of America",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-31T15:26:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EMSh8o55ojBVjJcogt34HK0mXuA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zV-1iHmuoHk"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-13T02:00:44Z",
+        "channelId": "UCKwGZZMrhNYKzucCtTPY2Nw",
+        "title": "Grant Horvat WINS the Creator Classic 👏",
+        "description": "The moment Grant Horvat won the Creator Classic at TPC Sawgrass ahead of THE PLAYERS Championship 2025. Welcome to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zV-1iHmuoHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zV-1iHmuoHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zV-1iHmuoHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PGA TOUR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-13T02:00:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dBpL2Us3ivFSXI-UiMLiaIS07aw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bJcULhp4-78"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-01T17:25:31Z",
+        "channelId": "UCYlILpePq9FS30Y8tpaOHlw",
+        "title": "Tiger Woods Golf Swing",
+        "description": "Tiger Woods - Driver DTL - 8th Hole - 2018 Bridgestone Invitational - Final Round.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bJcULhp4-78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bJcULhp4-78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bJcULhp4-78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Robert Reams",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-01T17:25:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GOvmm7h8KxWUB6HL0yQhXeT2wMo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tVHOmn-rH2o"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-10T15:34:48Z",
+        "channelId": "UCuv-W5UpVBETbg0ObHURS0g",
+        "title": "Easy Driver Ball Position (Golf Swing Basics)",
+        "description": "When it comes to ball positioning, we should never use our feet. It's an inconsistent and inaccurate method for finding our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tVHOmn-rH2o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tVHOmn-rH2o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tVHOmn-rH2o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Giles Gill Golf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-10T15:34:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_RaSorpV2JicLh3iLEhqqQt11Po",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cJ_TD-ZZ06g"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-15T01:01:16Z",
+        "channelId": "UCKwGZZMrhNYKzucCtTPY2Nw",
+        "title": "Highlights | Round 2 | THE PLAYERS Championship | 2025",
+        "description": "Check out the best shots of the day from Round 2 of THE PLAYERS Championship 2025, featuring Akshay Bhatia, Min Woo Lee, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cJ_TD-ZZ06g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cJ_TD-ZZ06g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cJ_TD-ZZ06g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PGA TOUR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-15T01:01:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HdQnVetzLN91zWxgzwXZLXz9Szw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iAyNCwPsPfo"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-20T02:54:45Z",
+        "channelId": "UC3g5iGvuw-wXxFCclNQ3qmw",
+        "title": "The PERFECT Thai Spinner! #golf #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iAyNCwPsPfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iAyNCwPsPfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iAyNCwPsPfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ben Kruper Golf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-20T02:54:45Z"
+      }
+    }
+  ]
+}
