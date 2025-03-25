@@ -1,5 +1,4 @@
 import axios from 'axios';
-// import { v4 as uuidv4 } from 'uuid';
 
 export default class YoutubeClient {
   constructor() {
@@ -15,5 +14,9 @@ export default class YoutubeClient {
 
   async videos(params) {
     return this.httpClient.get('videos', params);
+  }
+
+  async channels(params) {
+    return this.httpClient.get('channels', params);
   }
 }
