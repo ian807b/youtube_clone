@@ -1,12 +1,50 @@
-# React + Vite
+# YouTube Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A YouTube clone application is deployed on Netlify. This project demonstrates React fundamentals, API integration, and responsive design principles.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This application replicates core YouTube functionality including:
 
-## Expanding the ESLint configuration
+- Browsing trending videos
+- Searching for videos by keyword
+- Video playback with related video recommendations
+- Channel information display
+- Responsive design for various screen sizes
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- **React** - Frontend framework
+- **React Router** - Client-side routing
+- **TanStack Query (React Query)** - Data fetching and state management
+- **Tailwind CSS** - Styling
+- **YouTube Data API** - Video data source
+- **Netlify** - Deployment
+
+## Development Notes
+
+- The project includes a mock YouTube client (`MockYoutubeClient`) to avoid hitting API rate limits during development
+- Video descriptions from search results are truncated by the YouTube API itself, not by the application code
+- A potential enhancement would be implementing a separate API call to fetch full video details when viewing a specific video
+
+## Live Demo
+
+The project is deployed and accessible at [bright-bunny-e38c91.netlify.app].
+
+## Running Locally
+
+If you want to run this project locally:
+
+1. Clone the repository
+2. Run `npm install` to install dependencies
+3. Create a `.env` file with your YouTube API key: `VITE_YOUTUBE_API_KEY=your_key_here`
+4. Run `npm run dev` to start the development server
+
+## Learning Outcomes
+
+This project demonstrates:
+- Working with external APIs
+- State management in React
+- React Router for navigation
+- Responsive design with Tailwind CSS
+- Data fetching and caching with React Query
