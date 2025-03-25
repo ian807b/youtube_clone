@@ -29,7 +29,7 @@ This application replicates core YouTube functionality including:
 
 ## Live Demo
 
-The project is deployed and accessible at [bright-bunny-e38c91.netlify.app].
+The project is deployed and accessible at [https://bright-bunny-e38c91.netlify.app/].
 
 ## Running Locally
 
