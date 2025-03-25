@@ -1,0 +1,42 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "1x26eTXcwJTUGQhGJPKG-R9UVu4",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "QEqkvtkIYbTVcxphMsco-vrxcEQ",
+      "id": "UCB_qr75-ydFVKSF9Dmo6izg",
+      "snippet": {
+        "title": "FORMULA 1",
+        "description": "The home of risk takers, late brakers and history makers! 💫\n",
+        "customUrl": "@formula1",
+        "publishedAt": "2005-12-29T00:34:38Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/OjIDFlHinRLmfN75Zunw4e4NpdQKdcpEjRBMBILifgIAya9FLW68C6VPgNGLlk4GJ5z97sR2kQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/OjIDFlHinRLmfN75Zunw4e4NpdQKdcpEjRBMBILifgIAya9FLW68C6VPgNGLlk4GJ5z97sR2kQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/OjIDFlHinRLmfN75Zunw4e4NpdQKdcpEjRBMBILifgIAya9FLW68C6VPgNGLlk4GJ5z97sR2kQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "FORMULA 1",
+          "description": "The home of risk takers, late brakers and history makers! 💫\n"
+        }
+      }
+    }
+  ]
+}
