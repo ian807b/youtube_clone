@@ -25,7 +25,7 @@ export default class Youtube {
           part: "snippet",
           maxResults: 25,
           type: "video",
-          relatedToVideoId: id,
+          id: "T_i1aUYxaKw",
         },
       })
       .then((res) =>
@@ -34,6 +34,17 @@ export default class Youtube {
           id: item.id.videoId,
         }))
       );
+  }
+
+  async getVideoById(videoId) {
+    return this.apiClient
+      .videos({
+        params: {
+          part: "snippet,contentDetails,statistics",
+          id: videoId,
+        },
+      })
+      .then((res) => res.data.items[0]);
   }
 
   async #searchByKeyword(keyword) {
