@@ -1,21 +1,21 @@
-import React from "react";
-import { useNavigate } from "react-router-dom";
-import { format } from "timeago.js";
+import React from 'react';
+import { format } from 'timeago.js';
+import { useNavigate } from 'react-router';
 
-export default function VideoCard({ video, type }) {
-  const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
+function VideoCard({ video, type }) {
   const navigate = useNavigate();
-  const isList = type === "list";
+  const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
+  const isList = type === 'list';
 
   return (
     <li
-      className={isList ? "flex gap-1 m-2" : ""}
-      onClick={() =>
-        navigate(`/videos/watch/${video.id}`, { state: { video } })
-      }
+      className={isList ? 'flex gap-1 m-2' : ''}
+      onClick={() => {
+        navigate(`/videos/watch/${video.id}`, { state: { video } });
+      }}
     >
       <img
-        className={isList ? "w-60 mr-2" : "w-full"}
+        className={isList ? 'w-60 mr-2' : 'w-full'}
         src={thumbnails.medium.url}
         alt={title}
       />
@@ -27,3 +27,5 @@ export default function VideoCard({ video, type }) {
     </li>
   );
 }
+
+export default VideoCard;

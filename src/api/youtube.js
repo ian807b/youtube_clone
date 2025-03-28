@@ -11,7 +11,7 @@ export default class Youtube {
     return this.apiClient
       .channels({
         params: {
-          part: "snippet",
+          part: 'snippet',
           id,
         },
       })
@@ -22,25 +22,20 @@ export default class Youtube {
     return this.apiClient
       .search({
         params: {
-          part: "snippet",
+          part: 'snippet',
           maxResults: 25,
-          type: "video",
-          id: "T_i1aUYxaKw",
+          type: 'video',
+          id: id,
         },
       })
-      .then((res) =>
-        res.data.items.map((item) => ({
-          ...item,
-          id: item.id.videoId,
-        }))
-      );
+      .then((res) => res.data.items);
   }
 
   async getVideoById(videoId) {
     return this.apiClient
       .videos({
         params: {
-          part: "snippet,contentDetails,statistics",
+          part: 'snippet,contentDetails,statistics',
           id: videoId,
         },
       })
@@ -51,9 +46,9 @@ export default class Youtube {
     return this.apiClient
       .search({
         params: {
-          part: "snippet",
+          part: 'snippet',
           maxResults: 25,
-          type: "video",
+          type: 'video',
           q: keyword,
         },
       })
@@ -65,9 +60,9 @@ export default class Youtube {
     return this.apiClient
       .videos({
         params: {
-          part: "snippet",
-          chart: "mostPopular",
-          regionCode: "CA",
+          part: 'snippet',
+          chart: 'mostPopular',
+          regionCode: 'CA',
           maxResults: 25,
         },
       })
